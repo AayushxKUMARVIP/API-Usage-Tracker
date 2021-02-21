@@ -28,7 +28,7 @@ You can simply Deploy this at many platforms.
 
 
 ## Note :- 
-This is not a good usage to send the data to files to files. Rather than this, We can do a thing is make one file, In that track the user interaction time.
+This is not a good usage to send the data to files to files. Rather than this, We can do a thing is make one file, In that track the user interaction time. Which will be uploaded to a new branch beside this, Named `Web Tracker`.
 
 I had made this because I had to server a Data on my website by their user's visit count.
 e.g. On following interactions, 
