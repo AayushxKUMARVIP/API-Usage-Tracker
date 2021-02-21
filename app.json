@@ -1,0 +1,7 @@
+{
+    "name": "API Tracker.",
+    "description": "This is simple Flask API which can be used to track the useage of the API used by users.",
+    "repository": "https://github.com/jainamoswal/API-Usage-Tracker",
+    "logo": "https://github.com/jainamoswal/API-Usage-Tracker/blob/main/Assets/image.jpg?raw=true",
+    "keywords": ["Python", "Flask", "API", "Track", "Usage"]
+  }
